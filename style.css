@@ -11,7 +11,7 @@
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    background: url("https://img.freepik.com/free-vector/abstract-background_53876-43362.jpg");
+    background-color: rgb(203, 238, 251);
     background-size: cover;
 }
 #card{
